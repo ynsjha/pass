@@ -37,3 +37,5 @@ jobs:
 
       - name: Generate
         run: python main.py
+
+# END
